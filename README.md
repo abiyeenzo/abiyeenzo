@@ -2,6 +2,14 @@
 
 Je suis Abiye Enzo, un passionné de technologie, YouTubeur et programmeur intrépide.
 
+## 📊 Stats GitHub
+
+![GitHub Contributions](https://badges.pufler.dev/contributions/?username=AbiyeEnzo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbiyeEnzo&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbiyeEnzo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiyeEnzo&layout=compact)
+
+
 🚀 **À propos de moi**
 
 - 🎥 YouTubeur et créateur de contenu
