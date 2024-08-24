@@ -26,6 +26,8 @@ Je suis Abiye Enzo, un passionné de technologie, YouTubeur et programmeur intr�
 
 N'hésitez pas à explorer mes projets et à me contacter pour des collaborations passionnantes!
 
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=AbiyeEnzo&show_icons=true&locale=en&theme=tokyonight" alt="Abiye Enzo" /></p>
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
