@@ -15,13 +15,14 @@
 </p>
 
 ---
-
 ## 📊 Stats GitHub
 
-![Contributions GitHub](https://badges.pufler.dev/contributions/?username=AbiyeEnzo)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbiyeEnzo&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbiyeEnzo&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiyeEnzo&layout=compact)
+<p align="center">
+  <img src="https://badges.pufler.dev/contributions/?username=AbiyeEnzo" alt="Contributions GitHub" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbiyeEnzo&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbiyeEnzo&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiyeEnzo&layout=compact" alt="Top Langs" />
+</p>
 
 ---
 
