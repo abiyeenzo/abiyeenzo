@@ -4,6 +4,13 @@ Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et progr
 
 ---
 
+## 🕶️ Hacker Vibes
+
+![Hacker GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+*Plongez dans le monde du hacking éthique et de l'OSINT.*
+
+---
+
 ## 📊 Mes Stats GitHub
 
 ![Contributions GitHub](https://badges.pufler.dev/contributions/?username=AbiyeEnzo)  
@@ -26,20 +33,6 @@ Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et progr
 - 👾 Création d'IA et apprentissage automatique  
 - 🕵🏽‍♂️ Sécurité informatique & hacking éthique  
 - 🤖 OSINT (Open-Source Intelligence)  
-
----
-
-## 🤝 Collaboration
-
-- 💼 J'aime travailler sur des projets innovants  
-- 🔍 Toujours à la recherche de nouvelles opportunités pour apprendre et améliorer mes compétences  
-
----
-
-## 🎯 Objectifs futurs
-
-- 🌐 Créer un système d'exploitation alimenté par IA  
-- 💼 Lancer une entreprise tech ambitieuse  
 
 ---
 
@@ -76,4 +69,4 @@ Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et progr
 
 ---
 
-> N'hésitez pas à explorer mes projets et à me contacter pour des collaborations passionnantes !
+> 💻 N'hésitez pas à explorer mes projets et à me contacter pour des collaborations passionnantes !
