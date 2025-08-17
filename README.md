@@ -32,6 +32,9 @@
 + YouTubeur & créateur tech
 + Programmeur polyvalent : Python, HTML, CSS, Batch, C, C++, C#, Assembleur
 + Sportif passionné : course & basket
++ Passionné de Golf
++ Joueur de Damier stratégique
++ Participant à des CTF (Capture The Flag) et challenges de hacking éthique
 ````
 
 ---
