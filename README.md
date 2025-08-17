@@ -1,17 +1,10 @@
-# Salut à tous ! 👋
+# 🕶️ Abiye Enzo - Hacker / Dev / IA
 
-Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et programmeur intrépide.  
-
----
-
-## 🕶️ Hacker Vibes
-
-![Hacker GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
-*Plongez dans le monde du hacking éthique et de l'OSINT.*
+![Hacker Intro](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
-## 📊 Mes Stats GitHub
+## 📊 Stats GitHub
 
 ![Contributions GitHub](https://badges.pufler.dev/contributions/?username=AbiyeEnzo)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbiyeEnzo&show_icons=true&theme=tokyonight)  
@@ -22,23 +15,27 @@ Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et progr
 
 ## 🚀 À propos de moi
 
-- 🎥 YouTubeur et créateur de contenu  
+- 🎥 YouTubeur & créateur tech  
 - 👨‍💻 Programmeur polyvalent : Python, HTML, CSS, Batch, C, C++, C#, Assembleur  
 - 🏀 Sportif passionné : course & basket  
+
+![Code GIF](https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif)
 
 ---
 
 ## 💻 Domaines d'expertise
 
-- 👾 Création d'IA et apprentissage automatique  
+- 👾 Création d'IA / Machine Learning  
 - 🕵🏽‍♂️ Sécurité informatique & hacking éthique  
 - 🤖 OSINT (Open-Source Intelligence)  
+
+![Hacking GIF](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)
 
 ---
 
 ## 🔨 Languages, Frameworks & Tools
 
-### 🌐 Web Design & Development
+### 🌐 Web Development
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -69,4 +66,4 @@ Je suis **Abiye Enzo**, passionné de technologie, créateur de contenu et progr
 
 ---
 
-> 💻 N'hésitez pas à explorer mes projets et à me contacter pour des collaborations passionnantes !
+> 💻 Explorez mes projets et contactez-moi pour des collaborations passionnantes !
