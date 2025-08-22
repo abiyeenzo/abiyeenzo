@@ -6,8 +6,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <!-- Typing SVG animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
