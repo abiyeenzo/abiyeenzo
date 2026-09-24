@@ -29,7 +29,7 @@
 
 ```diff
 + Créateur de contenu technique
-+ Programmeur polyvalent : Python, HTML, CSS, Batch, C, C++, C#, Assembleur
++ Programmeur polyvalent : Python, PHP, HTML, CSS, Batch, C, C++, C#, Assembleur
 + Participant à des CTF et challenges de hacking éthique
 + Intérêts : course à pied, basket, golf, jeu de dames stratégique
 ```
@@ -58,6 +58,9 @@
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white) | ![Nano](https://img.shields.io/badge/Nano-00A400?style=for-the-badge&logo=nano&logoColor=white) |
 | | ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white) | |
+| | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | |
+| | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | |
+| | ![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge) | |
 | | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | |
 
 </p>
