@@ -31,7 +31,7 @@
 + Créateur de contenu technique
 + Programmeur polyvalent : Python, PHP, HTML, CSS, Batch, C, C++, C#, Assembleur
 + Participant à des CTF et challenges de hacking éthique
-+ Intérêts : course à pied, basket, golf, jeu de dames stratégique
++ Intérêts : course à pied, basket, golf, échecs, jeu de dames stratégique
 ```
 
 ---
