@@ -1,89 +1,36 @@
 # Abiye Enzo
 
-**Développeur | Sécurité informatique | Intelligence artificielle**
+Je développe en Python, C, C++ et JavaScript, avec un intérêt marqué pour la sécurité offensive, l'OSINT et la programmation système. Ici, je publie mes outils, mes expérimentations et mes writeups de CTF.
 
-<p align="center">
-  <a href="https://github.com/abiyeenzo">
-    <img src="https://img.shields.io/badge/Abiye%20Enzo-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[Portfolio](https://abiyeenzo.github.io) · [Writeups CTF](https://github.com/abiyeenzo/Writeup)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20%26%20Security%20Enthusiast;Python%20%7C%20C%2B%2B%20%7C%20C;Security%20%26%20OSINT;AI%20and%20Machine%20Learning&font=Fira%20Code&center=true&width=600&height=50&color=00FF00&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
-  </a>
-</p>
+## Projets
 
----
+| Projet | Description | Stack |
+|---|---|---|
+| [easy-language](https://github.com/abiyeenzo/easy-language) | Langage interprété en français (`.elg`), interpréteur en C pur avec optimisations assembleur x86-64 | C, x86-64 |
+| [sentinel-net](https://github.com/abiyeenzo/sentinel-net) | Scanner réseau défensif pour périmètres explicitement autorisés | Go |
+| [git-repo-finder](https://github.com/abiyeenzo/git-repo-finder) | OSINT : retrouve le dépôt Git d'un site web, sans clé API | PHP |
+| [sans-trace](https://github.com/abiyeenzo/sans-trace) | Nettoie les traces d'IA des textes, images et documents, entièrement dans le navigateur | JavaScript |
+| [chat-secure-aes256](https://github.com/abiyeenzo/chat-secure-aes256) | Chat en temps réel chiffré de bout en bout (AES-256-GCM), le serveur ne voit jamais le clair | Flask, Socket.IO |
+| [take-the-flag](https://github.com/abiyeenzo/take-the-flag) | Jeu de capture de drapeau rapide pour Roblox, avec classes et progression | Lua, Rojo |
 
-## Statistiques GitHub
+## Recherche en sécurité
 
-<p align="center">
-  <img src="https://badges.pufler.dev/contributions/?username=AbiyeEnzo" alt="Contributions GitHub" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbiyeEnzo&theme=tokyonight" alt="GitHub Streak" />
-</p>
+Preuves de concept à but éducatif, à n'utiliser qu'en laboratoire local :
+[CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431) · [CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671)
 
----
+## Outils
 
-## À propos
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-03599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-```diff
-+ Créateur de contenu technique
-+ Programmeur polyvalent : Python, PHP, HTML, CSS, Batch, C, C++, C#, Assembleur
-+ Participant à des CTF et challenges de hacking éthique
-+ Intérêts : course à pied, basket, golf, échecs, jeu de dames stratégique
-```
-
----
-
-## Domaines d'expertise
-
-```diff
-+ Intelligence artificielle et Machine Learning
-+ Sécurité informatique et hacking éthique
-+ OSINT (Open-Source Intelligence)
-```
-
----
-
-## Langages, frameworks et outils
-
-### Développement web
-
-<p align="center">
-
-| Frontend | Backend | Base de données & outils |
-|----------|---------|---------------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white) | ![Nano](https://img.shields.io/badge/Nano-00A400?style=for-the-badge&logo=nano&logoColor=white) |
-| | ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white) | |
-| | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | |
-| | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | |
-| | ![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge) | |
-| | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | |
-
-</p>
-
----
-
-### IDE et outils de productivité
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20Matrix%20World;Always%20Learning%20New%20Skills&font=Fira%20Code&center=true&width=600&height=50&color=00FF00&vCenter=true&pause=500&size=24" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Explorez mes projets et contactez-moi pour toute collaboration.
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abiyeenzo&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiyeenzo&layout=compact&hide_border=true" alt="Langages principaux" />
 </p>
