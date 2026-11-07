@@ -29,8 +29,3 @@ Preuves de concept à but éducatif, à n'utiliser qu'en laboratoire local :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abiyeenzo&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiyeenzo&layout=compact&hide_border=true" alt="Langages principaux" />
-</p>
